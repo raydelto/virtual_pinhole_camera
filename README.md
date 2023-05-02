@@ -1,4 +1,4 @@
-#Virtual Pinhole Camera
+# Virtual Pinhole Camera
 
 Virtual pinhole camera implementation from scratch a pixel.
 
